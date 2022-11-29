@@ -1,7 +1,6 @@
 import os
 import pathlib
 from pathlib import Path
-from Debug import DataIsNotExist
 
 def ExportDataTxt(filePath):
     with open(filePath, 'r') as data:

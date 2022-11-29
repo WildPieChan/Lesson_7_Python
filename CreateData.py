@@ -1,7 +1,6 @@
 import os
 import pathlib
 from pathlib import Path
-from Debug import DataExist
 
 
 def CreateDataTxt():
